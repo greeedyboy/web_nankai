@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on nankai.info | 整站出售 </title>
+    <link>https://nankai.info/categories.html</link>
+    <description>Recent content in Categories on nankai.info | 整站出售 </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Apr 2023 01:34:46 +0000</lastBuildDate><atom:link href="https://nankai.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nankai.info</title>
+      <link>https://nankai.info/categories/nankai.info.html</link>
+      <pubDate>Mon, 03 Apr 2023 01:34:46 +0000</pubDate>
+      
+      <guid>https://nankai.info/categories/nankai.info.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>南开大学</title>
+      <link>https://nankai.info/categories/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.html</link>
+      <pubDate>Mon, 03 Apr 2023 01:34:46 +0000</pubDate>
+      
+      <guid>https://nankai.info/categories/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
